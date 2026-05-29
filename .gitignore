@@ -4,6 +4,8 @@
 *.elf
 *.log
 .pytest_cache/
+__pycache__/
+tests/__pycache__/
 data/wordlists/rockyou.txt
 data/wordlists/rockyou2024.txt
 data/wordlists/RockYou2024_combined.txt
