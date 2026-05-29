@@ -24,8 +24,7 @@
 
 ## About
 
-**Hacker Planet LLC** · Philadelphia, PA — co-founded by **Andy Klwal** and **Pat**.
-
+**Hacker Planet LLC** · Philadelphia, PA — founded by salvadorData
 This is the **canonical C++ firmware repository** for Mr. CrackBot AI field tools. One modular codebase builds for:
 
 | Target | PlatformIO env | Hardware |
