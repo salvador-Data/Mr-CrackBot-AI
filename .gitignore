@@ -1,0 +1,12 @@
+.pio/
+.vscode/
+*.bin
+*.elf
+*.log
+.pytest_cache/
+data/wordlists/rockyou.txt
+data/wordlists/rockyou2024.txt
+data/wordlists/RockYou2024_combined.txt
+data/wordlists/*.gz
+data/wordlists/*.7z
+data/wordlists/*.zip
